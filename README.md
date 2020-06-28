@@ -1,6 +1,15 @@
-# RootOfFuture
+# Root Of Future Flutter Web
 
-A new Flutter project.
+Well It's not perfect, but I make this web for challenge myself
+
+I challenge myself to make a website in 3 days using flutter,
+
+This website I make for my highschool friend that have chart organization, history and etc.
+
+![Screen1](https://github.com/trapeye/RootOfFutureWebsite/blob/master/Screenshoot/Desktop.PNG) ![Screen2](https://github.com/trapeye/RootOfFutureWebsite/blob/master/Screenshoot/Mobile.PNG)
+
+Here link website
+[rootoffuture.ml](https://rootoffuture.ml/)
 
 ## Getting Started
 
